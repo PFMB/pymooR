@@ -6,7 +6,7 @@ pymoo. The code is still under construction and may contain many bugs.
 
 Execute `nsgall.R` to let the algorithm run for two randomly initialized 
 populations with two arguments (`x1` and `x2`) and two objectives (`f1` and `f2`).
-The following exemplary function is demonstrates the shortcomings of the
+The following exemplary function demonstrates the shortcomings of the
 current implementation.
 
 ```
