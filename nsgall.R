@@ -1,6 +1,7 @@
 rm(list = ls())
 set.seed(2)
 library(purrr)
+library(magick)
 source("./utils.R")
 
 # need to choose conflicting objectives
